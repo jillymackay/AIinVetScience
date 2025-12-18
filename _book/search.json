@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Responsible AI Use in Veterinary Science",
+    "section": "",
+    "text": "1 Responsible AI Use in Veterinary Science\nGenerative Artificial Intelligen (genAI) is becoming an increasingly common feature in a range of softwares, in professional and personal settings. Exactly how to integrate it into their practice is a decision best left to the individual’s own choice, and must incorporate the individual’s ethical beliefs, skill development, and the context of the work. However, there are some general approaches which lead to ‘best practice’ in responsible AI use.\nThis online, freely available and adaptable textbook is designed to support R(D)SVS students and staff to make choices about how they will use AI in their practice. It is heavily inspired by AITutoR, the University of Glasgow resource on using AI, but it contains more examples relevant to veterinary science and clinical considerations."
+  },
+  {
+    "objectID": "acknowledgements.html",
+    "href": "acknowledgements.html",
+    "title": "8  Acknowledgements",
+    "section": "",
+    "text": "This book draws heavily from"
+  },
+  {
+    "objectID": "02intro.html#a-note-on-genai-and-skills",
+    "href": "02intro.html#a-note-on-genai-and-skills",
+    "title": "2  How To Use This Book",
+    "section": "2.1 A Note on genAI and Skills",
+    "text": "2.1 A Note on genAI and Skills\nIt is entirely plausible that deskilling occurs (Budzyń et al. 2025)\n\n\n\n\nBudzyń, Krzysztof, Marcin Romańczyk, Diana Kitala, Paweł Kołodziej, Marek Bugajski, Hans O Adami, Johannes Blom, et al. 2025. “Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study.” The Lancet Gastroenterology & Hepatology 10 (10): 896–903. https://doi.org/10.1016/S2468-1253(25)00133-5."
+  },
+  {
+    "objectID": "03aioverview.html#how-does-ai-work",
+    "href": "03aioverview.html#how-does-ai-work",
+    "title": "3  Generative Artificial Intelligence",
+    "section": "3.1 How does AI work?",
+    "text": "3.1 How does AI work?\nGenAI is commonly touted as a ‘black box’, with limited ability to look inside and explore how and why it makes the decisions it does.\nWhile this is true in many senses, we do know quite a bit about how genAI are trained and developed.\nWe know that genAI must incorporate data loss in its process (Chiang 2023)\nSimple video explainer:\n\n\n\n\n\nChiang, Ted. 2023. “ChatGPT is a blurry JPEG of the web.” New York, NY. https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Budzyń, Krzysztof, Marcin Romańczyk, Diana Kitala, Paweł Kołodziej,\nMarek Bugajski, Hans O Adami, Johannes Blom, et al. 2025. “Endoscopist deskilling risk after exposure to artificial\nintelligence in colonoscopy: a multicentre, observational\nstudy.” The Lancet Gastroenterology &\nHepatology 10 (10): 896–903. https://doi.org/10.1016/S2468-1253(25)00133-5.\n\n\nChiang, Ted. 2023. “ChatGPT is a blurry JPEG\nof the web.” New York, NY. https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web."
+  }
+]

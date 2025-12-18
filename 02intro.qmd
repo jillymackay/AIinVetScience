@@ -1,0 +1,8 @@
+# How To Use This Book
+
+This book is intended to **support** your learning journey and skill development. It is not intended to replace the support you will receive on genAI in your studies. Instead, it supplements this with further considerations and acts as an evolving document you can return to. 
+
+
+## A Note on genAI and Skills
+
+It is entirely plausible that deskilling occurs [@Budzyn2025]

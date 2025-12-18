@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Responsible AI Use in Veterinary Science"
+  author: "Jill R D MacKay"
+  date: '`r Sys.Date()`'
+  chapters:
+    - index.qmd
+    - 02intro.qmd
+    - 03aioverview.qmd
+    - 04ethics.qmd
+    - 05clinical.qmd
+    - 06review.qmd
+    - 07analysis.qmd
+    - acknowledgements.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: yeti
+  pdf:
+    documentclass: scrreprt
+
+
+

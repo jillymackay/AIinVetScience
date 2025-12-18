@@ -1,0 +1,8 @@
+# Responsible AI Use in Veterinary Science
+
+Generative Artificial Intelligen (genAI) is becoming an increasingly common feature in a range of softwares, in professional and personal settings. Exactly how to integrate it into their practice is a decision best left to the individual's own choice, and must incorporate the individual's ethical beliefs, skill development, and the context of the work. However, there are some general approaches which lead to 'best practice' in responsible AI use. 
+
+This online, freely available and adaptable textbook is designed to support R(D)SVS students and staff to make choices about how they will use AI in their practice. It is heavily inspired by [AITutoR](https://psyteachr.github.io/AITutoR/), the University of Glasgow resource on using AI, but it contains more examples relevant to veterinary science and clinical considerations. 
+
+
+
